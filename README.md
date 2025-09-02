@@ -1,6 +1,6 @@
 # Predictive Delivery Risk System for Brazilian E-commerce
 
-## Project Overview
+## Project Overview 
 
 ### This project leverages machine learning to build a Predictive Delivery Risk System using the Olist Brazilian E-commerce dataset. The primary goal is to predict the probability of a delivery being delayed. By identifying high-risk shipments, this system enables logistics teams to implement proactive intervention strategies, thereby improving customer satisfaction and optimizing operational costs.
 
@@ -46,3 +46,9 @@ Data Merging & Preprocessing: The various CSV files were loaded and merged into 
 ### The model's performance was evaluated using standard classification metrics, including ROC AUC, Precision, Recall, and the F1-Score.
 
 ### Feature Importance analysis was performed to identify the key drivers of delivery delays.
+
+Connect me on 
+<a href="https://www.linkedin.com/in/yashraj195" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32">
+</a>
+
